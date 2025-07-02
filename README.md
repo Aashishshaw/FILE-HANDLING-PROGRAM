@@ -9,7 +9,8 @@
 
 * DESCRIPTION :
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  #QUE1 : 
+  #QUE1 : WRITE A PROGRAM TO CREATE,READ, WRITE, AND APPEND DATA TO A FILE.
+
   This project is a menu-driven C program that performs basic file handling operations such as creating, writing, appending, and reading a file. It was written as a practical hands-on exercise to deepen my understanding of how file I/O works in the C programming language. The program is interactive and allows users to enter file names and perform different actions through a simple text-based menu.
 
 🔧 Features
@@ -40,7 +41,8 @@ This code is designed for students and beginners who are learning about file sys
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#QUE2 : 
+#QUE2 : DELIVERABLE: A C PROGRAM DEMONSTRATING VARIOUS FILE OPERATIONS
+
 In this program, I wanted to learn and show how to work with files in the C programming language. I wrote code that does different file operations like creating a file, writing data to it, reading the data, adding more data at the end, updating part of the file, and finally deleting the file.
 
 How I wrote this code:
